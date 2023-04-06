@@ -24,6 +24,10 @@ Heartbeat Sensor.\
 Buzzer.\
 Joysticks.\
 Relay Module.\
+Bluetooth Module.\
+Wifi Module.\
+Motor Drivers.\
+LCD shields.
 
 Not also these there are many sensors and modules which are avalible to us to use.\
 
