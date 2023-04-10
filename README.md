@@ -29,11 +29,19 @@ Wifi Module.\
 Motor Drivers.\
 LCD shields.
 
-Not also these there are many sensors and modules which are avalible to us to use.\https://github.com/Rakeshreddysr2401/Arduino_IOT/blob/main/Arduino/WhatsApp%20Image%202023-04-10%20at%207.07.21%20PM.jpeg
+Not also these there are many sensors and modules which are avalible to us to use.\
 
-![ardu-1](https://github.com/Rakeshreddysr2401/Arduino_IOT/blob/main/Arduino/WhatsApp%20Image%202023-04-10%20at%207.07.21%20PM.jpeg).\
+
 ![ardu-2](https://github.com/Rakeshreddysr2401/Arduino_IOT/blob/main/Arduino/WhatsApp%20Image%202023-04-10%20at%207.34.20%20PM.jpeg).\
+ Robotic Hand.\
+ 
 ![ardu-3](https://github.com/Rakeshreddysr2401/Arduino_IOT/blob/main/Arduino/WhatsApp%20Image%202023-04-10%20at%207.33.26%20PM.jpeg).\
 ![ardu-4](https://github.com/Rakeshreddysr2401/Arduino_IOT/blob/main/Arduino/WhatsApp%20Image%202023-04-10%20at%207.35.24%20PM.jpeg).\
+Distance Finding.\
+
+![ardu-1](https://github.com/Rakeshreddysr2401/Arduino_IOT/blob/main/Arduino/WhatsApp%20Image%202023-04-10%20at%207.07.21%20PM.jpeg).\
+
+
+
 
 
