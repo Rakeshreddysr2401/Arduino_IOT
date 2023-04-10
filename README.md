@@ -41,7 +41,8 @@ Distance Finding using IR sensor.
 
 ![ardu-1](https://github.com/Rakeshreddysr2401/Arduino_IOT/blob/main/Arduino/WhatsApp%20Image%202023-04-10%20at%207.07.21%20PM.jpeg).\
 we can input texts info we need through ardiono and display module.
-![ardu-car](Arduino/WhatsApp Image 2023-04-10 at 8.12.45 PM.jpeg)./
+![ardu-car](https://github.com/Rakeshreddysr2401/Arduino_IOT/blob/main/Arduino/WhatsApp%20Image%202023-04-10%20at%208.12.45%20PM.jpeg)./
+Basic working of 4wd rover using arduino and using modules like bluetooth
 
 
 
